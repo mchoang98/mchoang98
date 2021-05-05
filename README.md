@@ -5,4 +5,7 @@
 <img src="image2.gif" alt="this slowpoke moves" width="250"  />
 <img src="image3.gif" alt="this slowpoke moves" width="250"  />
 <img src="image4.gif" alt="this slowpoke moves" width="250"  />
+<img src="image5.gif" alt="this slowpoke moves" width="250"  />
+<img src="image6.gif" alt="this slowpoke moves" width="250"  />
+
 </div>
