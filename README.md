@@ -23,7 +23,7 @@
 
 ## 📫 Connect with Me
 - Email: mchoang98@gmail.com
-- Portfolio: phuhoang-ezactive.web.app
-- Let's Code Python: letscode-python.web.app
+- Portfolio: https://phuhoang-ezactive.web.app
+- Let's Code Python: https://letscode-python.web.app
 ---
 "Always learning, always building with originality and integrity"
