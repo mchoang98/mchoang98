@@ -15,15 +15,15 @@
 - **Sports Team Management App**: Registration, payments, file uploads, and social links (Angular, Node.js, PayPal API).
 - **Plagiarism Detection Website**: AI-powered plagiarism checker promoting originality (HTML, Node.js, Firebase).
 - **Education Platform "Dạy cho vui"**: Free learning for kids, encouraging creativity (Firebase, HTML).
+- **Education Python for Let's Code center**: For student easier to practice Python 
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mchoang98&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mchoang98&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-- Email: your-email@example.com
-- Portfolio: [your-website.com](#)
-- LinkedIn: [your-linkedin](#)
-
+- Email: mchoang98@gmail.com
+- Portfolio: phuhoang-ezactive.web.app
+- Let's Code Python: letscode-python.web.app
 ---
 "Always learning, always building with originality and integrity"
