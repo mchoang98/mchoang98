@@ -1,33 +1,87 @@
-<h1 align="center">Hi 👋, I'm Phu Hoang</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+# Hi there, I'm Phu Hoang 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mchoang98&label=Profile%20views&color=0e75b6&style=flat" alt="mchoang98" /> </p>
+## 🚀 About Me
+- 🌍 Looking to work in **Singapore** as a **Software Developer**.
+- 💻 Passionate about **Web Development**, specializing in **Angular, Node.js, Firebase, and Cloudflare**.
+- 🎯 Focused on **building web apps** with modern technologies like **React, Laravel, and AWS**.
+- 🎮 Exploring **game development** based on the **parallel world** concept.
+- 📚 Learning **ReactJS, Terraform, Semiconductor, and improving IELTS skills**.
+- 📊 Interested in **tech entrepreneurship** and **making money through ROI in web development**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mchoang98" alt="mchoang98" /></a> </p>
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, Angular, React (learning)
+- **Backend:** Node.js, PHP (Laravel)
+- **Database:** Firebase Realtime Database, MySQL
+- **Cloud & DevOps:** AWS, Google Cloud, Terraform, Cloudflare
+- **Payment Integration:** PayPal, PayNow
+- **Other Tools:** Grafana, Google Apps Script, Bootstrap 3
 
-- 🔭 I’m currently working on [EZ Active](www.ezactive.com)
+## 📌 Featured Projects
+### 🔹 [Sports Team Management App](#)
+- ✅ Team registration, payment integration, file uploads, and social media links.
+- ✅ Built with **Angular, Node.js, PayPal API**.
 
-- 👨‍💻 All of my projects are available at [https://phuhoang-ezactive.web.app/](https://phuhoang-ezactive.web.app/)
+### 🔹 [# Hi there, I'm [Your Name] 👋
 
-- 💬 Ask me about **angular**
+## 🚀 About Me
+- 🌍 Looking to work in **Singapore** as a **Software Developer**.
+- 💻 Passionate about **Web Development**, specializing in **Angular, Node.js, Firebase, and Cloudflare**.
+- 🎯 Focused on **building web apps** with modern technologies like **React, Laravel, and AWS**.
+- 🎮 Exploring **game development** based on the **parallel world** concept.
+- 📚 Learning **ReactJS, Terraform, Semiconductor, and improving IELTS skills**.
+- 📊 Interested in **tech entrepreneurship** and **making money through ROI in web development**.
 
-- 📫 How to reach me **mmchoang98@gmail.com**
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, Angular, React (learning)
+- **Backend:** Node.js, PHP (Laravel)
+- **Database:** Firebase Realtime Database, MySQL
+- **Cloud & DevOps:** AWS, Google Cloud, Terraform, Cloudflare
+- **Payment Integration:** PayPal, PayNow
+- **Other Tools:** Grafana, Google Apps Script, Bootstrap 3
 
-- ⚡ Fun fact **I can sleep all days**
+## 📌 Featured Projects
+### 🔹 [Sports Team Management App](#)
+- ✅ Team registration, payment integration, file uploads, and social media links.
+- ✅ Built with **Angular, Node.js, PayPal API**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https:/www.linkedin.com/in/mchoang98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https:/www.linkedin.com/in/mchoang98/" height="30" width="40" /></a>
-</p>
+### 🔹 [Plagiarism Detection Website](#)
+- ✅ Checks text plagiarism against OpenAI and the internet.
+- ✅ Built with **HTML, Node.js, Firebase, custom comparison algorithm**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🔹 [Education Website - "Dạy cho vui"](#)
+- ✅ Free educational platform for kids.
+- ✅ Built with **Firebase, HTML, and a simple UI**.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mchoang98"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mchoang98" /></a></p><br><br>
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mchoang98&show_icons=true&locale=en&layout=compact" alt="mchoang98" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mchoang98&show_icons=true&locale=en" alt="mchoang98" /></p>
+## 📫 Connect with Me
+- ✉️ Email: mchoang98@gmail.com
+- 🌐 Portfolio: phuhoang-ezactive.web.app
+- 💼 LinkedIn: https:/www.linkedin.com/in/mchoang98/
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mchoang98&" alt="mchoang98" /></p>
+---
+_"Always learning, always building!"_ 🚀
+ Detection Website](#)
+- ✅ Checks text plagiarism against OpenAI and the internet.
+- ✅ Built with **HTML, Node.js, Firebase, custom comparison algorithm**.
+
+### 🔹 [Education Website - "Dạy cho vui"](#)
+- ✅ Free educational platform for kids.
+- ✅ Built with **Firebase, HTML, and a simple UI**.
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+## 📫 Connect with Me
+- ✉️ Email: your-email@example.com
+- 🌐 Portfolio: [your-website.com](#)
+- 💼 LinkedIn: [your-linkedin](#)
+- 🐦 Twitter: [your-twitter](#)
+
+---
+_"Always learning, always building!"_ 🚀
