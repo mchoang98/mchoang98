@@ -28,7 +28,7 @@
 ## 📫 Connect with Me
 - 📧 **Email**: [mchoang98@gmail.com](mailto:mchoang98@gmail.com)
 - 🌐 **Portfolio**: [phuhoang-ezactive.web.app](https://phuhoang-ezactive.web.app)
-- 💻 **Python Learning Platform**: [letscode-python.web.app](https://letscode-python.web.app)
+- 💻 **Python Learning Platform**: [teach4fun.web.app](https://teach4fun.web.app)
 
 ---
 
