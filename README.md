@@ -66,14 +66,6 @@
 * Simplified Python practice system for students
 * **Tech**: Python, Firebase
 
----
-
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mchoang98\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mchoang98\&layout=compact\&theme=radical)
-
----
 
 ## 📫 Contact & Links
 
