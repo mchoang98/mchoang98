@@ -1,21 +1,25 @@
-# 👋 Hi, I’m **Phu Hoang**
-
-🚀 **Software Developer** from **Vietnam**
-💡 Passionate about **Web Development**, **Ethical AI**, and **Building Meaningful Products**
+Dưới đây là **bản giữ badge (shields) và loại bỏ toàn bộ icon/emoji trong tiêu đề & nội dung**:
 
 ---
 
-## 👨‍💻 About Me
+# Hi, I’m **Phu Hoang**
 
-* Focused on **modern web applications** and **cloud-based systems**
-* Hands-on experience with **Angular**, **Node.js**, **Firebase**, and **Cloudflare**
-* Actively exploring **React**, **Laravel**, **AWS**, **Terraform**, and **Semiconductor technologies**
-* Strong interest in **game development** and **tech entrepreneurship**
-* Believe in **lifelong learning**, **originality**, and **technology with integrity**
+Software Developer from Vietnam
+Passionate about Web Development, Ethical AI, and building meaningful products
 
 ---
 
-## 🛠 Tech Stack
+## About Me
+
+* Focused on modern web applications and cloud-based systems
+* Hands-on experience with Angular, Node.js, Firebase, and Cloudflare
+* Exploring React, Laravel, AWS, Terraform, and Semiconductor technologies
+* Interested in game development and tech entrepreneurship
+* Value lifelong learning, originality, and technology with integrity
+
+---
+
+## Tech Stack
 
 ### Frontend
 
@@ -44,37 +48,36 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏆 Sports Team Management Platform
+### Sports Team Management Platform
 
 * Team registration, online payments, file uploads, and social media integration
-* **Tech**: Angular, Node.js, PayPal API
+* Tech: Angular, Node.js, PayPal API
 
-### 🤖 AI Plagiarism Detection Website
+### AI Plagiarism Detection Website
 
 * AI-powered plagiarism checker promoting originality in education
-* **Tech**: HTML, Node.js, Firebase
+* Tech: HTML, Node.js, Firebase
 
-### 🎓 “Dạy cho vui” – Free Education Platform
+### “Dạy cho vui” – Education Platform
 
-* Learning platform for children, encouraging creativity and self-paced study
-* **Tech**: HTML, Firebase
+* Free learning platform for children, encouraging creativity and self-paced study
+* Tech: HTML, Firebase
 
-### 🐍 Python Learning Platform – Let’s Code Center
+### Python Learning Platform – Let’s Code Center
 
 * Simplified Python practice system for students
-* **Tech**: Python, Firebase
-
-
-## 📫 Contact & Links
-
-* 📧 Email: **[mchoang98@gmail.com](mailto:mchoang98@gmail.com)**
-* 🌐 Portfolio: **[https://phuhoang-ezactive.web.app](https://phuhoang-ezactive.web.app)**
-* 💻 Python Learning Platform: **[https://teach4fun.web.app](https://teach4fun.web.app)**
+* Tech: Python, Firebase
 
 ---
 
-> **“Always learning. Always building. With originality and integrity.”**
+## Contact
 
+Email: [mchoang98@gmail.com](mailto:mchoang98@gmail.com)
+Portfolio: [https://phuhoang-ezactive.web.app](https://phuhoang-ezactive.web.app)
+Python Learning Platform: [https://teach4fun.web.app](https://teach4fun.web.app)
 
+---
+
+“Always learning. Always building. With originality and integrity.”
