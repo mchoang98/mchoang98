@@ -1,7 +1,3 @@
-Dưới đây là **bản giữ badge (shields) và loại bỏ toàn bộ icon/emoji trong tiêu đề & nội dung**:
-
----
-
 # Hi, I’m **Phu Hoang**
 
 Software Developer from Vietnam
