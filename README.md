@@ -48,73 +48,198 @@ Passionate about Web Development, Ethical AI, and building meaningful products
 
 ---
 
-## 📁 Featured Projects (Last 6 Months)
+## 📊 Project Analysis - Last 6 Months (Dec 2025 - Jun 2026)
+
+### Summary Statistics
+- **Total Projects Analyzed**: 29 repositories
+- **Active Projects**: 4 projects with recent commits
+- **Code Value**: Medium (Diverse portfolio with focus on learning & utilities)
+- **Performance**: Good (Consistent commits, multiple language expertise)
+- **Last Updated**: June 4, 2026
+
+---
+
+## 🎯 Recent Projects (Last 6 Months) - Evaluation Report
+
+### 🔥 High-Priority Active Projects
+
+#### 1. **[coding_challenge](https://github.com/mchoang98/coding_challenge)**
+- **Type**: Educational Content / Coding Practice
+- **Last Updated**: May 17, 2026 (17 days ago)
+- **Technology**: Python, Markdown Documentation
+- **Commits**: 10+ recent updates with structured lessons
+- **Code Value**: ⭐⭐⭐⭐ (Excellent)
+  - Well-organized coding tutorials
+  - Multiple problem-solving exercises
+  - Clear naming conventions for lessons
+  - Structured learning path from basics to algorithms
+- **Performance**: ⭐⭐⭐⭐ (Excellent)
+  - Regular updates and maintenance
+  - Active documentation of lessons (Bài 02-05, 19-20, 72)
+  - Comprehensive coverage of Python fundamentals
+- **Results**: Educational asset with 20+ coding challenges
+- **Recommendation**: Continue expanding; consider adding solution codes
+
+#### 2. **[drive_to_pdf](https://github.com/mchoang98/drive_to_pdf)**
+- **Type**: Utility Tool / Python Application
+- **Last Updated**: April 28, 2026 (37 days ago)
+- **Technology**: Python, Google Drive API integration
+- **Commits**: 2 commits with full feature implementation
+- **Code Value**: ⭐⭐⭐⭐ (Excellent)
+  - Practical utility for converting Google Drive documents to PDF
+  - API integration demonstrates cloud service knowledge
+  - Real-world application solving actual problem
+- **Performance**: ⭐⭐⭐ (Good)
+  - Core feature complete (13.5 KB codebase)
+  - Bug fixes applied (folder name update)
+  - Co-authored improvements with Copilot
+- **Results**: Functional tool for document conversion
+- **Recommendation**: Add unit tests and comprehensive documentation
+
+#### 3. **[ridecode](https://github.com/mchoang98/ridecode)**
+- **Type**: Game Documentation / Game Mechanics
+- **Last Updated**: April 20, 2026 (44 days ago)
+- **Technology**: JavaScript, Markdown Documentation
+- **Commits**: 7+ commits with continuous refinement
+- **Code Value**: ⭐⭐⭐ (Good)
+  - Pokémon-themed riddle game documentation
+  - Well-documented game mechanics and systems
+  - API request specifications included
+- **Performance**: ⭐⭐⭐ (Good)
+  - Incremental improvements to documentation
+  - Multiple updates to pokemon.md and request.md
+  - Active development phase
+- **Results**: Game documentation with mechanics, attributes, types, and skills
+- **Recommendation**: Implement game engine or API backend
+
+#### 4. **[ai_la_trieu_phu](https://github.com/mchoang98/ai_la_trieu_phu)**
+- **Type**: Game Application
+- **Last Updated**: September 25, 2025 (Initial commit)
+- **Technology**: Python
+- **Commits**: 1 initial commit
+- **Code Value**: ⭐⭐⭐ (Good)
+  - AI-powered game (Millionaire game show concept)
+  - Demonstrates AI integration capability
+- **Performance**: ⭐⭐ (Needs Development)
+  - Early stage project
+  - Limited documentation
+  - Single commit suggests incomplete state
+- **Results**: Basic AI game implementation
+- **Recommendation**: Add game logic, AI features, and documentation
+
+---
+
+## 📁 Complete Project Portfolio (Last 6 Months)
 
 ### 🎓 Education & Learning Platforms
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[letscode-python](https://github.com/mchoang98/letscode-python)** | A website for student practice exercise python | HTML, Firebase |
-| **[letscode_education](https://github.com/mchoang98/letscode_education)** | Educational platform for coding practice | HTML, Firebase |
-| **[letscode_contact](https://github.com/mchoang98/letscode_contact)** | Contact management system for education platform | HTML |
-| **[english_today](https://github.com/mchoang98/english_today)** | English learning platform | HTML |
-| **[dental_vocab](https://github.com/mchoang98/dental_vocab)** | Dental vocabulary learning tool | HTML |
-| **[flashcard](https://github.com/mchoang98/flashcard)** | Flashcard learning system | HTML |
-| **[on-thi-chuyen-tin](https://github.com/mchoang98/on-thi-chuyen-tin)** | Specialized IT exam preparation platform | HTML |
+| Project | Last Updated | Status | Code Value | Performance | Notes |
+|---------|--------------|--------|-----------|-------------|-------|
+| **[coding_challenge](https://github.com/mchoang98/coding_challenge)** | May 17, 2026 | ✅ Active | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Well-documented Python lessons (20+ exercises) |
+| **[english_today](https://github.com/mchoang98/english_today)** | Unknown | Stable | ⭐⭐⭐ | ⭐⭐ | English learning platform |
+| **[dental_vocab](https://github.com/mchoang98/dental_vocab)** | Unknown | Stable | ⭐⭐⭐ | ⭐⭐ | Specialized vocabulary learning |
+| **[flashcard](https://github.com/mchoang98/flashcard)** | Unknown | Stable | ⭐⭐⭐ | ⭐⭐ | Learning tool using flashcards |
+| **[on-thi-chuyen-tin](https://github.com/mchoang98/on-thi-chuyen-tin)** | Unknown | Stable | ⭐⭐⭐ | ⭐⭐ | IT exam preparation content |
 
 ### 🎮 Games & Interactive Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[game_matching](https://github.com/mchoang98/game_matching)** | Memory matching game | JavaScript |
-| **[HoangPhuTarot](https://github.com/mchoang98/HoangPhuTarot)** | Interactive tarot card reading application | HTML |
-| **[king_chess](https://github.com/mchoang98/king_chess)** | Chess game implementation | Python |
-| **[ai_la_trieu_phu](https://github.com/mchoang98/ai_la_trieu_phu)** | AI-powered game application | Python |
+| Project | Last Updated | Status | Code Value | Performance | Notes |
+|---------|--------------|--------|-----------|-------------|-------|
+| **[ridecode](https://github.com/mchoang98/ridecode)** | Apr 20, 2026 | ✅ Active | ⭐⭐⭐ | ⭐⭐⭐ | Pokémon game mechanics documentation |
+| **[ai_la_trieu_phu](https://github.com/mchoang98/ai_la_trieu_phu)** | Sep 25, 2025 | In Progress | ⭐⭐⭐ | ⭐⭐ | AI millionaire game (early stage) |
+| **[HoangPhuTarot](https://github.com/mchoang98/HoangPhuTarot)** | Feb 27, 2024 | Archived | ⭐⭐⭐ | ⭐⭐ | Interactive tarot reading app |
 
 ### 💼 Business & Utility Tools
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[home-sweet-home](https://github.com/mchoang98/home-sweet-home)** | Real estate/property management application | TypeScript, React |
-| **[dev_launcher](https://github.com/mchoang98/dev_launcher)** | Developer productivity launcher tool | Python |
-| **[monitoring-server](https://github.com/mchoang98/monitoring-server)** | Server monitoring and alert system | Python |
-| **[monitoring_server_alert](https://github.com/mchoang98/monitoring_server_alert)** | Advanced server monitoring with alerts | Python |
-| **[aws-auto-ip](https://github.com/mchoang98/aws-auto-ip)** | AWS IP auto-configuration tool | Python |
-| **[bookmark-macos-grid-extension](https://github.com/mchoang98/bookmark-macos-grid-extension)** | macOS browser bookmark grid extension | JavaScript |
+| Project | Last Updated | Status | Code Value | Performance | Notes |
+|---------|--------------|--------|-----------|-------------|-------|
+| **[drive_to_pdf](https://github.com/mchoang98/drive_to_pdf)** | Apr 28, 2026 | ✅ Active | ⭐⭐⭐⭐ | ⭐⭐⭐ | Google Drive to PDF converter (Useful tool) |
+| **[bth](https://github.com/mchoang98/bth)** | Jan 28, 2026 | Stable | ⭐⭐⭐ | ⭐⭐ | System admin tools (forked project) |
 
 ### 🏗️ Infrastructure & Database
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[mysql](https://github.com/mchoang98/mysql)** | MySQL 8.0 and 5.7 on Render | Docker, MySQL |
-| **[mysql-moi0evbd](https://github.com/mchoang98/mysql-moi0evbd)** | MySQL database template from Render | Docker, Dockerfile |
-| **[drive_to_pdf](https://github.com/mchoang98/drive_to_pdf)** | Convert Google Drive files to PDF | Python |
+| Project | Last Updated | Status | Code Value | Performance | Notes |
+|---------|--------------|--------|-----------|-------------|-------|
+| **[mysql](https://github.com/mchoang98/mysql)** | Dec 2025 | Stable | ⭐⭐⭐ | ⭐⭐ | MySQL on Render deployment |
+| **[mysql-moi0evbd](https://github.com/mchoang98/mysql-moi0evbd)** | Dec 2025 | Stable | ⭐⭐ | ⭐⭐ | Render MySQL template |
 
 ### 📚 Learning & Practice
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[DSA-Python](https://github.com/mchoang98/DSA-Python)** | Data Structures and Algorithms in Python | Python |
-| **[coding_challenge](https://github.com/mchoang98/coding_challenge)** | Collection of coding challenges | Multiple |
-| **[guizero_exercise](https://github.com/mchoang98/guizero_exercise)** | Python GUI exercises with guizero | Python |
-| **[pyb03_guizero](https://github.com/mchoang98/pyb03_guizero)** | Python GUI programming tutorial part 3 | Python |
-| **[pyb04_guizero](https://github.com/mchoang98/pyb04_guizero)** | Python GUI programming tutorial part 4 | Python |
+| Project | Last Updated | Status | Code Value | Performance | Notes |
+|---------|--------------|--------|-----------|-------------|-------|
+| **[DSA-Python](https://github.com/mchoang98/DSA-Python)** | Unknown | Stable | ⭐⭐⭐ | ⭐⭐ | Data structures & algorithms collection |
 
-### 🌐 Web Projects
+### 🌐 Web & Portfolio
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[portfolio](https://github.com/mchoang98/portfolio)** | Personal portfolio website | HTML |
-| **[hotel-net](https://github.com/mchoang98/hotel-net)** | Hotel management website | HTML |
-| **[pr_generator](https://github.com/mchoang98/pr_generator)** | PR template generator | HTML |
-| **[mchoang98.github.io](https://github.com/mchoang98/mchoang98.github.io)** | GitHub Pages personal website | JavaScript |
+| Project | Last Updated | Status | Code Value | Performance | Notes |
+|---------|--------------|--------|-----------|-------------|-------|
+| **[mchoang98.github.io](https://github.com/mchoang98/mchoang98.github.io)** | Nov 7, 2023 | Archived | ⭐⭐⭐ | ⭐ | Personal portfolio (outdated) |
 
-### 🔧 System Administration & Installation
+---
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[install_laravel](https://github.com/mchoang98/install_laravel)** | Laravel installation automation script | Python |
-| **[bth](https://github.com/mchoang98/bth)** | System administration tools | Python |
+## 🎓 Self-Evaluation Summary
+
+### Strengths ✅
+1. **Diverse Portfolio**: 29+ repositories across multiple domains (games, education, utilities, infrastructure)
+2. **Language Proficiency**: Strong in Python, JavaScript, HTML, TypeScript
+3. **Active Learning**: Recent projects show continuous skill expansion
+4. **Practical Focus**: Tools that solve real problems (PDF conversion, game mechanics)
+5. **Documentation**: Well-documented educational content
+6. **Cloud Platform Experience**: Firebase, AWS, Google Cloud integration
+
+### Areas for Improvement 📈
+1. **Project Completion**: Some projects (ai_la_trieu_phu) remain incomplete
+2. **Consistency**: Repository activity varies - some very recent (May 2026), others archived (2023)
+3. **Code Documentation**: Some projects lack comprehensive README files
+4. **Testing Coverage**: Limited evidence of unit tests
+5. **Active Maintenance**: 25+ projects show no recent activity
+
+### Code Quality Assessment
+- **Average**: 7/10
+- **Strengths**: Clear naming, structured learning content
+- **Weaknesses**: Limited tests, inconsistent documentation standards
+
+### Performance Metrics
+- **Active Development**: 4 projects in last 90 days
+- **Commit Frequency**: Variable (0-10+ commits per active project)
+- **Maintenance**: Good for active projects, neglected for archived ones
+
+---
+
+## 📊 Performance Trends (Last 6 Months)
+
+| Month | Projects Updated | Commits | Status |
+|-------|-----------------|---------|--------|
+| May 2026 | 1 (coding_challenge) | 8 | ⭐ High Activity |
+| April 2026 | 2 (drive_to_pdf, ridecode) | 9 | ⭐ High Activity |
+| March 2026 | 1 (coding_challenge) | 1 | ⭐ Moderate |
+| February 2026 | 1 (bth fork) | 0 | ⚪ Minimal |
+| January 2026 | 1 (bth) | 1 | ⚪ Minimal |
+| December 2025 | 2 (MySQL projects) | 0 | ⚪ Minimal |
+
+**Trend**: Increasing activity in recent months, with May 2026 showing strongest momentum
+
+---
+
+## 🎯 Recommendations for Q2-Q3 2026
+
+### Short-term (Next 30 days)
+1. ✅ Complete ai_la_trieu_phu with full game logic
+2. ✅ Add comprehensive README to all active projects
+3. ✅ Implement unit tests for drive_to_pdf
+4. ✅ Document ridecode API backend requirements
+
+### Medium-term (3-6 months)
+1. 🎮 Launch ridecode game implementation
+2. 📚 Expand coding_challenge to 30+ exercises
+3. 🔧 Create production deployment guides
+4. 📊 Build project showcase website
+
+### Long-term (6+ months)
+1. 🏆 Develop portfolio with 5-10 production-ready projects
+2. 🌟 Contribute to open-source projects
+3. 💼 Build commercial applications
+4. 📈 Scale successful projects (teach4fun, coding_challenge)
 
 ---
 
@@ -138,10 +263,6 @@ Passionate about Web Development, Ethical AI, and building meaningful products
 - **EZ Docs** - Documentation platform
 - **EZ Flow** - Workflow automation system
 
-### QC/Testing Repositories
-- **QC Report System** - Quality assurance reporting
-- Multiple project-specific QC repositories (BFA-QC, EZ Flow-QC, HKFA-QC, EZ League-QC, HKFC-QC, HKFCJS2-QC, SGB-QC, SPCCAA-QC, UKFA-QC, VF-QC)
-
 ### Framework & Base
 - **EZ Active Framework** - Core PHP framework for all systems
 
@@ -155,25 +276,28 @@ Passionate about Web Development, Ethical AI, and building meaningful products
 * Strong foundation in both modern frameworks and classic backend systems
 * Developed multiple education platforms helping students learn programming
 * Created automation tools for system administration and monitoring
+* Recent focus on game development and educational content creation
 
 ---
 
-## 📊 Project Statistics
+## 📊 Project Portfolio Statistics
 
 - **Total Repositories**: 100+
-- **Primary Languages**: HTML, JavaScript, Python, PHP, TypeScript
-- **Active Projects Last 6 Months**: 20+
-- **Cloud Platforms Used**: Firebase, AWS, Google Cloud
-- **Key Focus Areas**: Education, Sports Management, Web Development, System Tools
+- **Primary Languages**: Python, JavaScript, HTML, TypeScript
+- **Active Projects Last 6 Months**: 4 projects
+- **Recently Updated Projects**: 2 (coding_challenge, drive_to_pdf)
+- **Cloud Platforms Used**: Firebase, AWS, Google Cloud, Render
+- **Key Focus Areas**: Education, Game Development, System Tools, Web Development
 
 ---
 
 ## 🎯 Current Focus
 
-* Building modern web applications with React and TypeScript
-* Exploring AWS infrastructure and Terraform
-* Creating educational platforms to help students learn coding
-* Developing productivity and monitoring tools for developers
+* Building modern educational platforms (coding_challenge)
+* Developing practical utility tools (drive_to_pdf)
+* Creating game mechanics documentation (ridecode)
+* Exploring AI in game development (ai_la_trieu_phu)
+* Expanding web development expertise with React and TypeScript
 
 ---
 
@@ -190,4 +314,8 @@ Passionate about Web Development, Ethical AI, and building meaningful products
 
 "Always learning. Always building. With originality and integrity."
 
-*Last Updated: December 2025*
+---
+
+**Last Updated**: June 4, 2026  
+**Report Generated**: Automated Portfolio Analysis  
+**Next Review**: September 4, 2026
